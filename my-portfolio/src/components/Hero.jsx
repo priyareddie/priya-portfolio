@@ -19,7 +19,7 @@ const Hero = () => {
             Contact Me
           </a>
           <a
-            href="/Priya_Kandula_Resume.pdf"
+            href="/Priya_Resume.pdf"
             className="btn btn--ghost"
             target="_blank"
             rel="noopener noreferrer">
