@@ -1,16 +1,15 @@
-import React from "react";
-
 const Hero = () => {
   return (
     <div className="container hero">
       <div className="hero__content">
         <p className="hero__eyebrow">Frontend Engineer · React · Redux · AEM</p>
         <h1 className="hero__title">
-          I craft clean, performant UIs for enterprise web experiences.
+          I build clean, performant React interfaces for enterprise web apps.
         </h1>
         <p className="hero__subtitle">
-          8+ years building React and AEM-driven interfaces for brands like Spectrum,
-          SealedAir, and BCBSNC — with a strong focus on UX, accessibility, and performance.
+          8+ years of frontend experience delivering React, Redux, and AEM-based UIs
+          for high-traffic sites like Spectrum, SealedAir, and BCBSNC — with a strong
+          focus on UX, accessibility, and performance.
         </p>
         <div className="hero__actions">
           <a href="#projects" className="btn btn--primary">
@@ -19,19 +18,24 @@ const Hero = () => {
           <a href="#contact" className="btn btn--ghost">
             Contact Me
           </a>
+          <a
+            href="/Priya_Kandula_Resume.pdf"
+            className="btn btn--ghost"
+            target="_blank"
+            rel="noopener noreferrer">
+            Download Resume
+          </a>
         </div>
       </div>
       <div className="hero__card">
-        <div className="hero__badge">Available for Frontend Roles</div>
+        <div className="hero__badge">Open to React/Redux roles</div>
         <p className="hero__tagline">
-          React · Redux · TypeScript · AEM · Angular · UI/UX
+          React · Redux Toolkit · TypeScript · AEM · Angular · UI/UX
         </p>
         <p className="hero__note">
-          I love turning complex requirements into intuitive, delightful interfaces.
+          I enjoy turning complex requirements into intuitive, production-ready interfaces.
         </p>
       </div>
     </div>
   );
 };
-
-export default Hero;
