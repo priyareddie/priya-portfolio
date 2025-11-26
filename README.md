@@ -4,7 +4,10 @@ React + Redux + Vite portfolio showcasing enterprise UI work (Spectrum, SealedAi
 
 ## Tech
 
-- React + Vite
+- React/Redux
 - Redux Toolkit
-- CSS (custom, no framework)
+- Angular 15
+- NextJs
+- TypeScript/JavaScript
+- SCSS/LESS 
 - Responsive, SPA
