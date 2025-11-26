@@ -5,15 +5,15 @@ const Skills = () => {
   const primarySkills = [
     "React (Hooks, functional components)",
     "Redux / Redux Toolkit",
+    "Angular 8–17+",
     "TypeScript & JavaScript (ES6+)",
-    "HTML5 / CSS3 / SCSS",
+    "HTML5 / CSS3 / SCSS / LESS",
     "Responsive & mobile-first design",
     "Accessibility (WCAG) & UX best practices",
   ];
 
   const secondarySkills = [
     "AEM (Core Components, Sling Models)",
-    "Angular 8–17+",
     "REST API integration",
     "Git / CI-CD workflows",
     "Figma handoff & design systems",
